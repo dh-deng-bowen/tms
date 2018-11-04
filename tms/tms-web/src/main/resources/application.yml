@@ -1,0 +1,7 @@
+logging:
+  level:
+    com.ergroup: debug
+    org: info
+
+server:
+  port: 8888
